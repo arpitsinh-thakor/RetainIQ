@@ -1,0 +1,15 @@
+streamlit>=1.39
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+plotly>=5.24
+duckdb>=1.1
+joblib>=1.4
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+xgboost>=2.1
+shap>=0.46
+python-dotenv>=1.0
+langchain>=0.3
+langchain-openai>=0.2
